@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/alleg/!svn/ver/8144/allegro/branches/4.3.10plus/src/misc
+END
+pckeys.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/pckeys.c
+END
+fm_drum.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/fm_drum.h
+END
+vgaregs.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/vgaregs.c
+END
+modexsms.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/modexsms.c
+END
+modexgfx.s
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/modexgfx.s
+END
+colconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/colconv.c
+END
+modexsms.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/modexsms.h
+END
+ccolconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/ccolconv.c
+END
+runnergw.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/runnergw.c
+END
+runner.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/runner.c
+END
+modex.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/modex.c
+END
+fm_emu.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/fm_emu.h
+END
+vga.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/vga.c
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/test.cpp
+END
+vbeafex.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/vbeafex.c
+END
+vbeaf.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8144/allegro/branches/4.3.10plus/src/misc/vbeaf.c
+END
+asmcapa.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/asmcapa.s
+END
+fm_instr.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/fm_instr.h
+END
+vbeafs.s
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/vbeafs.s
+END
+icolconv.s
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/misc/icolconv.s
+END

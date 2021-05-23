@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/alleg/!svn/ver/9770/allegro/branches/4.3.10plus/src/macosx
+END
+system.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/9770/allegro/branches/4.3.10plus/src/macosx/system.m
+END
+soundman.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/macosx/soundman.m
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/macosx/main.m
+END
+quartz.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/macosx/quartz.m
+END
+hidjoy.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/macosx/hidjoy.m
+END
+camidi.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/src/macosx/camidi.m
+END
+qtmidi.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/macosx/qtmidi.m
+END
+keybd.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/macosx/keybd.m
+END
+hidman.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/macosx/hidman.m
+END
+qzmouse.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/src/macosx/qzmouse.m
+END
+pcpu.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/macosx/pcpu.m
+END
+qzfull.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/macosx/qzfull.m
+END
+drivers.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/macosx/drivers.m
+END
+cadigi.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/macosx/cadigi.m
+END
+qzwindow.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/macosx/qzwindow.m
+END

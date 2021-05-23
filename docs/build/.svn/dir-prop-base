@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 118
+bcc32.txt
+beos.txt
+darwin.txt
+djgpp.txt
+dmc.txt
+linux.txt
+macosx.txt
+mingw32.txt
+msvc.txt
+qnx.txt
+unix.txt
+watcom.txt
+
+END

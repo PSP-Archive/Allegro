@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/src/mac
+END
+msbmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/mac/msbmp.c
+END
+msnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/mac/msnd.c
+END
+madb.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/src/mac/madb.c
+END
+allegro.r
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/mac/allegro.r
+END
+mkey.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/mac/mkey.c
+END
+mlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/mac/mlock.c
+END
+mmid.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/mac/mmid.c
+END
+mdrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/mac/mdrv.c
+END
+mdraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/mac/mdraw.c
+END
+msys.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/mac/msys.c
+END
+mfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/mac/mfile.c
+END

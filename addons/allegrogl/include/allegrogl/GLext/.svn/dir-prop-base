@@ -1,0 +1,7 @@
+K 10
+svn:ignore
+V 46
+gl_ext_alias.h
+glx_ext_alias.h
+wgl_ext_alias.h
+END

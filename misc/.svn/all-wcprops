@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/alleg/!svn/ver/11119/allegro/branches/4.3.10plus/misc
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/install.sh
+END
+askq.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/askq.c
+END
+TemplateInfo.plist
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/TemplateInfo.plist
+END
+mkpkg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/mkpkg.sh
+END
+dtou.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/10168/allegro/branches/4.3.10plus/misc/dtou.sh
+END
+fixdll.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/fixdll.bat
+END
+depdexe.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/depdexe.sh
+END
+pkgreadme._tx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/9905/allegro/branches/4.3.10plus/misc/pkgreadme._tx
+END
+zipwin.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/zipwin.sh
+END
+genexamp.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/9779/allegro/branches/4.3.10plus/misc/genexamp.py
+END
+fixdll.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/fixdll.sh
+END
+cmplog.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/cmplog.pl
+END
+mkunixdists.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/11119/allegro/branches/4.3.10plus/misc/mkunixdists.sh
+END
+template.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/template.c
+END
+findheaders.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/findheaders.c
+END
+project.pbxuser
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/project.pbxuser
+END
+gcc-uni.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/misc/gcc-uni.sh
+END
+findtext.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/findtext.sh
+END
+release.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/9906/allegro/branches/4.3.10plus/misc/release.txt
+END
+deplexe.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/deplexe.sh
+END
+depmexe.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/9965/allegro/branches/4.3.10plus/misc/depmexe.sh
+END
+depnexe.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/depnexe.sh
+END
+mkdirs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/mkdirs.sh
+END
+msvchelp.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/msvchelp.c
+END
+mdhelper.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/mdhelper.bat
+END
+allegro-config-qnx.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/9905/allegro/branches/4.3.10plus/misc/allegro-config-qnx.sh
+END
+mkdata.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/mkdata.bat
+END
+mdhelper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/mdhelper.sh
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8113/allegro/branches/4.3.10plus/misc/icon.png
+END
+fixver.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/9908/allegro/branches/4.3.10plus/misc/fixver.sh
+END
+allegro.spec
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/9905/allegro/branches/4.3.10plus/misc/allegro.spec
+END
+fixpatch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/fixpatch.sh
+END
+zipup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/11119/allegro/branches/4.3.10plus/misc/zipup.sh
+END
+depmod.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/depmod.sh
+END
+scanexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/scanexp.c
+END
+utod.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/10168/allegro/branches/4.3.10plus/misc/utod.sh
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/Info.plist
+END
+sf-cf.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/misc/sf-cf.py
+END
+vcvars.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/vcvars.c
+END
+dllsyms.lst
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/9902/allegro/branches/4.3.10plus/misc/dllsyms.lst
+END
+project.pbxproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/project.pbxproj
+END
+icon.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8113/allegro/branches/4.3.10plus/misc/icon.xpm
+END
+allegro-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/9905/allegro/branches/4.3.10plus/misc/allegro-config.in
+END
+allegro.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8146/allegro/branches/4.3.10plus/misc/allegro.m4
+END
+asmdef.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/asmdef.sh
+END
+deplib.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/deplib.sh
+END
+mkdata.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/mkdata.sh
+END
+depdlib.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/misc/depdlib.sh
+END
+embedman.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/misc/embedman.bat
+END

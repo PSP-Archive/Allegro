@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/alleg/!svn/ver/9964/allegro/branches/4.3.10plus/src/linux
+END
+lsystem.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/9964/allegro/branches/4.3.10plus/src/linux/lsystem.c
+END
+lmsems.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/linux/lmsems.c
+END
+lvgahelp.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/linux/lvgahelp.c
+END
+lmouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/src/linux/lmouse.c
+END
+lmsegpmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/linux/lmsegpmd.c
+END
+lkeybd.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/linux/lkeybd.c
+END
+vtswitch.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/linux/vtswitch.c
+END
+lmsedrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/linux/lmsedrv.c
+END
+lgfxdrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/linux/lgfxdrv.c
+END
+ljoy.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/linux/ljoy.c
+END
+lconsole.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/9964/allegro/branches/4.3.10plus/src/linux/lconsole.c
+END
+lasyncio.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/linux/lasyncio.c
+END
+lstddrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/linux/lstddrv.c
+END
+lmemory.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/linux/lmemory.c
+END
+lmseps2.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/linux/lmseps2.c
+END
+fbcon.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/9964/allegro/branches/4.3.10plus/src/linux/fbcon.c
+END
+svgalib.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/linux/svgalib.c
+END
+lvga.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/linux/lvga.c
+END
+svgalibs.s
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/linux/svgalibs.s
+END
+lmseev.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/src/linux/lmseev.c
+END
+ltimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/linux/ltimer.c
+END

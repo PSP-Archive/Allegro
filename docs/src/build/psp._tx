@@ -1,0 +1,232 @@
+@html_text_substitution=readme.txt|<a href="../readme.html">readme.txt</a>
+@external-css=../allegro.css
+@document_title=Allegro PlayStation Portable-specific information
+@<pre>
+     ______   ___    ___
+    /\  _  \ /\_ \  /\_ \
+    \ \ \L\ \\//\ \ \//\ \      __     __   _ __   ___ 
+     \ \  __ \ \ \ \  \ \ \   /'__`\ /'_ `\/\`'__\/ __`\
+      \ \ \/\ \ \_\ \_ \_\ \_/\  __//\ \L\ \ \ \//\ \L\ \
+       \ \_\ \_\/\____\/\____\ \____\ \____ \ \_\\ \____/
+	\/_/\/_/\/____/\/____/\/____/\/___L\ \/_/ \/___/
+				       /\____/
+				       \_/__/
+
+
+		PlayStation Portable-specific information.
+
+		Written by diedel.
+
+	 See readme.txt for a more general overview.
+@</pre>
+
+
+
+@heading
+PlayStation Portable notes
+
+   This is a near complete PSP port. It's very young so all feedback
+   is welcome!
+
+
+
+@heading
+Required software
+
+   To build Allegro under PSP, you need:
+
+      <ul><li>The PSP toolchain.
+      <li>The PSPSDK Open Source libraries</ul>
+
+
+
+@heading
+Installing Allegro
+
+   Allegro ships in source code form; this means you need to compile it
+   before you can use it.
+   The first step is to generate the makefile so that Allegro can be built
+   for PSP, by running:
+<textblock>
+      chmod +x fix.sh
+      ./fix.sh psp
+<endblock>
+   If you have checked out a development version from Allegro's SVN
+   repository, run the following command. Otherwise, skip this step:
+<textblock>
+      make depend
+<endblock>
+   Now Allegro is ready to be compiled. Start building it:
+<textblock>
+      make lib
+<endblock>
+   And finally you install it:
+<textblock>
+      make install
+<endblock>
+   Allegro has now been installed in your PSP development directories as
+   a static library, typically in <tt>/usr/local/pspdev/psp/lib</tt>.
+   And the headers in <tt>/usr/local/pspdev/psp/include</tt>.
+   For a static debug version of the library:
+<textblock>
+      make DEBUGMODE=1 lib install
+<endblock>
+   And for a static profile version:
+<textblock>
+      make PROFILEMODE=1 lib install
+<endblock>
+
+
+@heading
+Building your own programs
+
+   To avoid you having to work out the right compiler and linker options
+   for yourself, the installation creates a script, 
+   <tt>psp-allegro-config</tt>. It fills out include and library paths, and
+   links the right libraries for you.
+   For build the Allegro programs use the standard <tt>Makefile</tt> as supplied
+   with any PSPSDK sample program.   
+   Example: the <tt>Makefile</tt> for building the Allegro "Hello, world! example
+   program
+<textblock>
+      TARGET = exhello
+      OBJS = exhello.o
+
+      INCDIR = 
+      CFLAGS = -G0 -Wall -O2
+      CXXFLAGS = $(CFLAGS) -fno-exceptions -fno-rtti
+      ASFLAGS = $(CFLAGS)
+
+      LIBDIR =
+      LDFLAGS =
+      LIBS =
+
+      EXTRA_TARGETS = EBOOT.PBP
+      PSP_EBOOT_TITLE = Allegro Hello World
+
+      PSPSDK=$(shell psp-config --pspsdk-path)
+      PSP_PREFIX = $(shell psp-config --psp-prefix)
+      PSPBIN = $(PSP_PREFIX)/bin
+      CFLAGS += $(shell $(PSPBIN)/psp-allegro-config --cflags)
+      LIBS += $(shell $(PSPBIN)/psp-allegro-config --libs release)
+      include $(PSPSDK)/lib/build.mak
+<endblock>
+   Or if you want to build a debug version of your program, assuming that 
+   you have installed the debug version of Allegro, change these lines:
+<textblock>
+      ...
+      CFLAGS = -G0 -Wall -O2 -g
+      ...
+      LIBS += $(shell $(PSPBIN)/psp-allegro-config --libs debug)
+      ...
+<endblock>
+
+
+@heading
+The Allegro magic main
+
+   When writing an Allegro program, the typical use for portability is to 
+   don't worry with the PSP init stuff (setup callbacks, etc.) and add the
+   Allegro <code>END_OF_MAIN()</code> macro at the end of your <code>main()</code>
+   function (see allegro.txt).
+   The default linked <tt>-lalleg-main</tt> library provides the real
+   <code>main()</code> with the necessary PSP init code:
+
+      <ul><li>Define the required PSP_* macros
+      <li>Set up the "home" button callback.
+      <li>Call your <code>main()</code> function</ul>
+
+   For write the real <code>main()</code> and the PSP init code yourself
+   define the <tt>ALLEGRO_NO_MAGIC_MAIN</tt> prior to include the Allegro
+   headers:
+<codeblock>
+      ...
+      #define ALLEGRO_NO_MAGIC_MAIN
+      #include &ltallegro.h&gt
+
+      int main(void)
+      {
+      ...
+<endblock>
+   And, following the above <tt>Makefile</tt> example, change the
+   corresponding line by this one:
+<textblock>
+      ...
+      LIBS += $(shell $(PSPBIN)/psp-allegro-config --libs release | sed -r s/-l\(alleg\|alld\|allp\)-main//)
+      ...
+<endblock>
+
+
+@heading
+Notes on drivers
+
+   This section contains PSP-specific notes on the drivers available.
+<blockquote><dl>
+   <dt><b>Graphics:</b></dt><dd>
+        The 15, 16 and 32 bpp modes are supported with accelerated blitting
+        and triple buffering.
+
+        Support for screen resolutions not bigger than 480x272 and always
+        centered at the PSP display. Typical resolutions like 320x200
+        or 360x272 (4:3 aspect ratio) can be used.
+
+        Support for virtual screens bigger than the 480x272 physical screen
+        (with some restrictions in the truecolor modes) and scroll.
+        Due to PSP hardware restrictions the scrolling routine handle
+        horizontal scrolling in eight pixel increments under 15, 16 bpp
+        modes and four pixel increments under 32 bpp mode.
+
+        The 8 bpp mode is also supported but via emulation because
+        the PSP don't support a 8 bpp direct display framebuffer:
+        in some cases the direct screen access in this mode don't work
+        as expected and no accelerated blitting neither triple buffering
+        is supported.
+        But this mode has advantages like less memory consumption, ability
+        to use palette effects, it supports any virtual screen resolution
+        and is the only mode which can scroll horizontally pixel by pixel.
+        
+        Each video bitmap created has his own memory surface rather than 
+        being a screen sub-bitmap.</dd>
+        
+   <dt><b>Sound:</b></dt><dd>
+        The sound output is 44100 Hz, 16 bits, stereo and the multivoice
+        is supported via the Allegro mixer.</dd>
+
+   <dt><b>Keyboard:</b></dt><dd>
+       This is the PSP controller button to key mapping:
+<textblock>
+          SELECT     Esc
+          START      Enter
+          UP         Cursor Up
+          RIGHT      Cursor Right
+          DOWN       Cursor Down
+          LEFT       Cursor Left 
+          TRIANGLE   Left Control
+          CIRCLE     Alt
+          CROSS      Space
+          SQUARE     Tab
+<endblock>
+          This is useful for common functions like Allegro GUI dialog
+          navigation, etc.</dd>
+
+   <dt><b>Joystick:</b></dt><dd>
+       Only a digital joystick with two axes and 8 no directional buttons
+       has been implemented.
+
+       The button mapping is:
+<textblock>
+          0 TRIANGLE
+          1 CIRCLE
+          2 CROSS
+          3 SQUARE
+          4 LEFT TRIGGER
+          5 RIGHT TRIGGER
+          6 SELECT
+          7 START
+<endblock>
+       And the PSP digital pad for the directional control.</dd>
+
+   <dt><b>Mouse:</b></dt><dd>
+        The driver is not implemented yet.</dd>
+</dl></blockquote>
+

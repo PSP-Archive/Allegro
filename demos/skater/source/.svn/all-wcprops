@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/10174/allegro/branches/4.3.10plus/demos/skater/source
+END
+gamepad.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/gamepad.c
+END
+lvlstate.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/lvlstate.c
+END
+transitn.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/transitn.c
+END
+game_sk.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/game_sk.c
+END
+menuctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/9993/allegro/branches/4.3.10plus/demos/skater/source/menuctl.c
+END
+lvlalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/lvlalloc.c
+END
+menusnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/9993/allegro/branches/4.3.10plus/demos/skater/source/menusnd.c
+END
+menumain.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/menumain.c
+END
+menugfx.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/9993/allegro/branches/4.3.10plus/demos/skater/source/menugfx.c
+END
+quadtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/quadtree.c
+END
+menuopts.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/menuopts.c
+END
+menumisc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/alleg/!svn/ver/9993/allegro/branches/4.3.10plus/demos/skater/source/menumisc.c
+END
+physics.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/physics.c
+END
+menusucc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/menusucc.c
+END
+backscrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/backscrl.c
+END
+pageflip.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/pageflip.c
+END
+fps.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/fps.c
+END
+tribuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/tribuf.c
+END
+dblbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/dblbuf.c
+END
+global.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/10174/allegro/branches/4.3.10plus/demos/skater/source/global.c
+END
+menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/menu.c
+END
+level.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/level.c
+END
+token.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/token.c
+END
+music.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/music.c
+END
+anim.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/anim.c
+END
+scrshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/scrshot.c
+END
+virtctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/virtctl.c
+END
+skater.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/skater.c
+END
+menuabt.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/menuabt.c
+END
+intro.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/intro.c
+END
+oglflip.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/oglflip.c
+END
+framewk.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/framewk.c
+END
+credits.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/credits.c
+END
+kbd_sk.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/kbd_sk.c
+END
+lvlfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/demos/skater/source/lvlfile.c
+END

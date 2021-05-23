@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/11119/allegro/branches/4.3.10plus/addons/loadpng
+END
+Makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/alleg/!svn/ver/10293/allegro/branches/4.3.10plus/addons/loadpng/Makefile.vc
+END
+Makefile.all
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/alleg/!svn/ver/10715/allegro/branches/4.3.10plus/addons/loadpng/Makefile.all
+END
+savepng.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/loadpng/savepng.c
+END
+Makefile.osx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/alleg/!svn/ver/10715/allegro/branches/4.3.10plus/addons/loadpng/Makefile.osx
+END
+Makefile.unx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/alleg/!svn/ver/10715/allegro/branches/4.3.10plus/addons/loadpng/Makefile.unx
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/loadpng/CHANGES.txt
+END
+fix.bat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/10293/allegro/branches/4.3.10plus/addons/loadpng/fix.bat
+END
+fix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/11119/allegro/branches/4.3.10plus/addons/loadpng/fix.sh
+END
+regpng.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/loadpng/regpng.c
+END
+Makefile.add
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/loadpng/Makefile.add
+END
+loadpng.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/10293/allegro/branches/4.3.10plus/addons/loadpng/loadpng.c
+END
+THANKS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/loadpng/THANKS.txt
+END
+Makefile.mgw
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/alleg/!svn/ver/10715/allegro/branches/4.3.10plus/addons/loadpng/Makefile.mgw
+END
+Makefile.dj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/alleg/!svn/ver/10715/allegro/branches/4.3.10plus/addons/loadpng/Makefile.dj
+END
+loadpng.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/loadpng/loadpng.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/loadpng/README.txt
+END

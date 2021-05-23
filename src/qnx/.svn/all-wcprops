@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/alleg/!svn/ver/9770/allegro/branches/4.3.10plus/src/qnx
+END
+qdrivers.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/qnx/qdrivers.c
+END
+qphaccel.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/qnx/qphaccel.c
+END
+qswitch.s
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/qnx/qswitch.s
+END
+qkeydrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/qnx/qkeydrv.c
+END
+qsystem.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/9770/allegro/branches/4.3.10plus/src/qnx/qsystem.c
+END
+qphwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/qnx/qphwin.c
+END
+qphbmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/qnx/qphbmp.c
+END
+qphoton.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/qnx/qphoton.c
+END
+qmouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/src/qnx/qmouse.c
+END
+qphfull.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/qnx/qphfull.c
+END

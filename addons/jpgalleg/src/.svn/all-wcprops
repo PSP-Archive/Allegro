@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/10180/allegro/branches/4.3.10plus/addons/jpgalleg/src
+END
+decode.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/alleg/!svn/ver/9994/allegro/branches/4.3.10plus/addons/jpgalleg/src/decode.c
+END
+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/jpgalleg/src/init.c
+END
+jpgalleg.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/jpgalleg/src/jpgalleg.c
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/jpgalleg/src/io.c
+END
+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/jpgalleg/src/error.c
+END
+encode.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/10180/allegro/branches/4.3.10plus/addons/jpgalleg/src/encode.c
+END

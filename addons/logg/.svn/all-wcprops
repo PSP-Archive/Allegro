@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/11296/allegro/branches/4.3.10plus/addons/logg
+END
+Makefile.unix
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/logg/Makefile.unix
+END
+fix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/11296/allegro/branches/4.3.10plus/addons/logg/fix.sh
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/logg/LICENSE.TXT
+END
+play_ogg.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/logg/play_ogg.c
+END
+Makefile.add
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/logg/Makefile.add
+END
+Makefile.msvc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/10293/allegro/branches/4.3.10plus/addons/logg/Makefile.msvc
+END
+Makefile.osx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/10715/allegro/branches/4.3.10plus/addons/logg/Makefile.osx
+END
+stream_ogg.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/logg/stream_ogg.c
+END
+logg.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/10245/allegro/branches/4.3.10plus/addons/logg/logg.c
+END
+fix.bat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/10293/allegro/branches/4.3.10plus/addons/logg/fix.bat
+END
+Makefile.mingw
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/logg/Makefile.mingw
+END
+logg.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/10377/allegro/branches/4.3.10plus/addons/logg/logg.h
+END

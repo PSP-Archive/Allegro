@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 51
+Makefile
+allegro.log
+liblogg.a
+play_ogg
+stream_ogg
+
+END

@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/alleg/!svn/ver/9838/allegro/branches/4.3.10plus/src/dos
+END
+psxpad.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/psxpad.c
+END
+ifsega2p.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/ifsega2p.c
+END
+grip.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/grip.c
+END
+vesas.s
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/vesas.s
+END
+sb.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/sb.c
+END
+grip.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/grip.h
+END
+awedata.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/awedata.c
+END
+gripfnc.s
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/gripfnc.s
+END
+joystd.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/src/dos/joystd.c
+END
+wss.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/wss.c
+END
+dfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/9838/allegro/branches/4.3.10plus/src/dos/dfile.c
+END
+dtimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/dtimer.c
+END
+dpmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/dpmi.c
+END
+emu8k.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/emu8k.c
+END
+sw.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/sw.c
+END
+dmouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/src/dos/dmouse.c
+END
+ww.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/ww.c
+END
+ifsega.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/ifsega.c
+END
+emu8k.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/emu8k.h
+END
+vesa.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8144/allegro/branches/4.3.10plus/src/dos/vesa.c
+END
+sndscape.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/sndscape.c
+END
+mpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/mpu.c
+END
+dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/dma.c
+END
+dkeybd.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/src/dos/dkeybd.c
+END
+dgfxdrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/dgfxdrv.c
+END
+dsnddrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/dsnddrv.c
+END
+gpro.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/gpro.c
+END
+djirq.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/djirq.c
+END
+pic.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/pic.c
+END
+adlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/adlib.c
+END
+multijoy.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/multijoy.c
+END
+essaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/essaudio.c
+END
+djirqs.s
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/djirqs.s
+END
+djoydrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/djoydrv.c
+END
+gripjoy.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/gripjoy.c
+END
+emu8kmid.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/emu8kmid.c
+END
+ifsega2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/ifsega2f.c
+END
+dsystem.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/dsystem.c
+END
+swpp.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/swpp.c
+END
+wat.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/wat.c
+END
+n64pad.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/n64pad.c
+END
+swpps.s
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/swpps.s
+END
+snespad.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dos/snespad.c
+END

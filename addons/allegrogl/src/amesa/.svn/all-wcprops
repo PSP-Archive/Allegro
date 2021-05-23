@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/src/amesa
+END
+direct.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/src/amesa/direct.h
+END
+raster.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/src/amesa/raster.c
+END
+generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/src/amesa/generic.h
+END
+raster.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/src/amesa/raster.h
+END
+amesa.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/src/amesa/amesa.c
+END

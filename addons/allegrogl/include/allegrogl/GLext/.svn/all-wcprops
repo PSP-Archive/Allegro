@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/alleg/!svn/ver/11068/allegro/branches/4.3.10plus/addons/allegrogl/include/allegrogl/GLext
+END
+wgl_ext_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/alleg/!svn/ver/11068/allegro/branches/4.3.10plus/addons/allegrogl/include/allegrogl/GLext/wgl_ext_defs.h
+END
+gl_ext_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/alleg/!svn/ver/11068/allegro/branches/4.3.10plus/addons/allegrogl/include/allegrogl/GLext/gl_ext_api.h
+END
+glx_ext_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/alleg/!svn/ver/11032/allegro/branches/4.3.10plus/addons/allegrogl/include/allegrogl/GLext/glx_ext_defs.h
+END
+gl_ext_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/alleg/!svn/ver/11068/allegro/branches/4.3.10plus/addons/allegrogl/include/allegrogl/GLext/gl_ext_list.h
+END
+wgl_ext_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/alleg/!svn/ver/11068/allegro/branches/4.3.10plus/addons/allegrogl/include/allegrogl/GLext/wgl_ext_api.h
+END
+gl_ext_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/alleg/!svn/ver/11068/allegro/branches/4.3.10plus/addons/allegrogl/include/allegrogl/GLext/gl_ext_defs.h
+END
+glx_ext_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/alleg/!svn/ver/11068/allegro/branches/4.3.10plus/addons/allegrogl/include/allegrogl/GLext/glx_ext_api.h
+END
+wgl_ext_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/alleg/!svn/ver/11068/allegro/branches/4.3.10plus/addons/allegrogl/include/allegrogl/GLext/wgl_ext_list.h
+END
+glx_ext_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/alleg/!svn/ver/10251/allegro/branches/4.3.10plus/addons/allegrogl/include/allegrogl/GLext/glx_ext_list.h
+END

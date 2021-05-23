@@ -1,0 +1,227 @@
+8
+
+dir
+11480
+https://alleg.svn.sourceforge.net/svnroot/alleg/allegro/branches/4.3.10plus/addons/allegrogl
+https://alleg.svn.sourceforge.net/svnroot/alleg
+
+
+
+2009-01-20T07:48:42.418725Z
+11480
+mmimica
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+198e8dbc-0e07-0410-9fd0-dca9db973e3e
+
+todo.txt
+file
+
+
+
+
+2009-01-20T10:54:37.000000Z
+c4e4498d3e2ff6d88630be5beb70bd8c
+2007-05-20T16:01:58.078166Z
+9433
+mmimica
+has-props
+
+include
+dir
+
+faq.txt
+file
+
+
+
+
+2009-01-20T10:54:37.000000Z
+a70671df930be410a973b40814dc9fd1
+2007-08-20T18:12:16.694192Z
+9460
+elias
+has-props
+
+configure.in
+file
+
+
+
+
+2009-01-20T10:54:37.000000Z
+ee880561ad5d74e0d3907df57ca8d3c5
+2008-09-25T10:25:13.936673Z
+10971
+tjaden
+has-props
+
+changelog
+file
+
+
+
+
+2009-01-20T10:54:37.000000Z
+c7d504820f78dc051c70963c4a49b647
+2008-04-09T13:06:06.268509Z
+10174
+mmimica
+has-props
+
+src
+dir
+
+docs
+dir
+
+projects
+dir
+
+fix.bat
+file
+
+
+
+
+2009-01-20T10:54:37.000000Z
+20703967f7c55aeaecb9fa59c5b1f129
+2008-07-01T13:43:46.157384Z
+10293
+mmimica
+has-props
+
+misc
+dir
+
+build
+dir
+
+fix.sh
+file
+
+
+
+
+2009-01-20T10:54:37.000000Z
+fe64ccf7e01bec468177352515b051cb
+2008-10-20T08:27:27.860833Z
+11119
+tjaden
+has-props
+
+gpl.txt
+file
+
+
+
+
+2009-01-20T10:54:37.000000Z
+db66c21236bb3b1144c70ebf18ab49b2
+2008-01-30T10:56:50.015752Z
+9959
+tjaden
+has-props
+
+lib
+dir
+
+quickstart.txt
+file
+
+
+
+
+2009-01-20T10:54:37.000000Z
+68bfb1afb91b58e655fb943e0ad0f04f
+2008-01-18T23:26:12.543664Z
+9878
+mmimica
+has-props
+
+obj
+dir
+
+examp
+dir
+
+readme.txt
+file
+
+
+
+
+2009-01-20T10:54:37.000000Z
+720bfc22a091c195b667c03422f41473
+2008-01-18T23:26:12.543664Z
+9878
+mmimica
+has-props
+
+make
+dir
+
+extensions.txt
+file
+
+
+
+
+2009-01-20T10:54:37.000000Z
+44a959bcbcf2730ebfe9bfa12080daa5
+2008-10-11T22:33:43.827912Z
+11068
+mmimica
+has-props
+
+howto.txt
+file
+
+
+
+
+2009-01-20T10:54:37.000000Z
+34e43dadf2ae31d965bd93ba103a9699
+2004-05-15T18:56:03.000000Z
+9177
+joe_programmer
+has-props
+
+bugs.txt
+file
+
+
+
+
+2009-01-20T10:54:37.000000Z
+b5c605f45123cd4e97b3315274eab5a0
+2007-11-11T15:05:41.055846Z
+9565
+mmimica
+has-props
+
+zlib.txt
+file
+
+
+
+
+2009-01-20T10:54:37.000000Z
+31023a34ed47b40b0066d8c7aa8e0252
+2008-01-30T10:56:50.015752Z
+9959
+tjaden
+has-props
+

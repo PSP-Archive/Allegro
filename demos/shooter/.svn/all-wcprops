@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/9825/allegro/branches/4.3.10plus/demos/shooter
+END
+dirty.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/dirty.h
+END
+display.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/display.c
+END
+expl.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/expl.c
+END
+game.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/game.c
+END
+star.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/star.c
+END
+display.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/display.h
+END
+demo.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/demo.dat
+END
+expl.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/expl.h
+END
+music.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/music.txt
+END
+data.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/data.h
+END
+aster.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/aster.c
+END
+game.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/game.h
+END
+star.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/star.h
+END
+title.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/alleg/!svn/ver/9825/allegro/branches/4.3.10plus/demos/shooter/title.c
+END
+aster.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/aster.h
+END
+demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/demo.c
+END
+title.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/title.h
+END
+bullet.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/bullet.c
+END
+animsel.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/animsel.c
+END
+demo.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/demo.h
+END
+dirty.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/dirty.c
+END
+bullet.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/bullet.h
+END
+animsel.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/9823/allegro/branches/4.3.10plus/demos/shooter/animsel.h
+END

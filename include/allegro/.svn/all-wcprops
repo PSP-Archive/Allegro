@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/11353/allegro/branches/4.3.10plus/include/allegro
+END
+lzss.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/lzss.h
+END
+palette.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/palette.h
+END
+joystick.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/joystick.h
+END
+keyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/keyboard.h
+END
+graphics.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/graphics.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/config.h
+END
+font.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/font.h
+END
+3d.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/3d.h
+END
+datafile.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/datafile.h
+END
+quat.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/quat.h
+END
+base.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/9905/allegro/branches/4.3.10plus/include/allegro/base.h
+END
+fli.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/fli.h
+END
+digi.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/digi.h
+END
+midi.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/midi.h
+END
+rle.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/rle.h
+END
+gfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/10294/allegro/branches/4.3.10plus/include/allegro/gfx.h
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/11124/allegro/branches/4.3.10plus/include/allegro/system.h
+END
+text.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/text.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/debug.h
+END
+unicode.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/unicode.h
+END
+sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/sound.h
+END
+alinline.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/alinline.h
+END
+stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/stream.h
+END
+compiled.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/compiled.h
+END
+draw.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/draw.h
+END
+fixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/fixed.h
+END
+alcompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/9770/allegro/branches/4.3.10plus/include/allegro/alcompat.h
+END
+3dmaths.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/3dmaths.h
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/matrix.h
+END
+color.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/color.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/9770/allegro/branches/4.3.10plus/include/allegro/file.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/timer.h
+END
+fmaths.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/fmaths.h
+END
+gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/gui.h
+END
+fix.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/fix.h
+END
+mouse.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/mouse.h
+END

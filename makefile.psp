@@ -1,0 +1,207 @@
+#
+#  Rules for building the Allegro library with PSP. This file is included
+#  by the primary makefile, and should not be used directly.
+#
+#  The "depend" and "install" targets use sed.
+#
+#  See makefile.all for a list of the available targets.
+
+
+
+# -------- define some variables that the primary makefile will use --------
+
+PLATFORM = PSP
+PSPSDK=$(shell psp-config --pspsdk-path)
+PSP_PREFIX = $(shell psp-config --psp-prefix)
+CC = psp-gcc
+AS = psp-gcc
+LD = psp-gcc
+AR = psp-ar
+RANLIB = psp-ranlib
+
+PLATFORM_DIR = obj/psp
+OBJ_DIR = obj/psp/$(VERSION)
+EXE =
+OBJ = .o
+HTML = html
+UNIX_TOOLS = 1
+RM_OPTS = -f
+
+
+# -------- link as a static library --------
+STATICLINK=1
+LIB_NAME = lib/psp/lib$(VERSION).a
+LIB_MAIN_NAME = lib/psp/lib$(VERSION)-main.a
+
+
+# -------- give a sensible default target for make without any args --------
+
+.PHONY: _default
+
+_default: default
+
+
+
+# -------- decide what compiler options to use --------
+
+ifdef WARNMODE
+   WFLAGS = -Wall -W -Werror -Wno-unused -Wno-long-double
+else
+   WFLAGS = -Wall
+endif
+
+ifdef TARGET_ARCH_COMPAT
+   TARGET_ARCH = $(GCC_MTUNE)=$(TARGET_ARCH_COMPAT)
+else
+   ifdef TARGET_ARCH_EXCL
+      TARGET_ARCH = -march=$(TARGET_ARCH_EXCL)
+   endif
+endif
+
+ifndef TARGET_OPTS
+   TARGET_OPTS = -O2
+endif
+
+OFLAGS = $(TARGET_ARCH) $(TARGET_OPTS)
+
+CFLAGS = -DALLEGRO_LIB_BUILD
+
+
+
+ifdef DEBUGMODE
+
+# -------- debugging build --------
+CFLAGS += -DDEBUGMODE=$(DEBUGMODE) $(WFLAGS) -g
+SFLAGS = -DDEBUGMODE=$(DEBUGMODE) $(WFLAGS)
+LFLAGS = -g
+
+else
+ifdef PROFILEMODE
+
+# -------- profiling build --------
+CFLAGS += $(WFLAGS) $(OFLAGS) -pg
+SFLAGS = $(WFLAGS)
+LFLAGS = -pg
+
+else
+
+# -------- optimised build --------
+CFLAGS += $(WFLAGS) $(OFLAGS) -fomit-frame-pointer
+SFLAGS = $(WFLAGS)
+
+ifndef SYMBOLMODE
+LFLAGS = -s
+else
+LFLAGS =
+endif
+
+endif
+endif
+
+ifeq ($(PSP_FW_VERSION),)
+PSP_FW_VERSION=150
+endif
+
+CFLAGS += -G0 -D_PSP_FW_VERSION=$(PSP_FW_VERSION)
+
+
+# -------- list platform specific objects and programs --------
+
+VPATH = src/psp src/misc src/c
+CFLAGS += -DALLEGRO_NO_ASM
+
+OBJECT_LIST = $(COMMON_OBJECTS) $(C_OBJECTS) $(basename $(notdir $(ALLEGRO_SRC_PSP_FILES)))
+
+STATIC_LIBRARIES = -lm -lpspaudio -lpspgu -lpsprtc
+LIBRARIES = $(STATIC_LIBRARIES)
+
+
+# -------- rules for installing and removing the library files --------
+
+DESTDIR =
+INSTALLDIR = $(DESTDIR)$(PSP_PREFIX)
+BINDIR = bin
+LIBDIR = lib
+INCDIR = include
+
+
+$(INSTALLDIR)/lib/lib$(VERSION).a: $(LIB_NAME)
+	cp $(LIB_NAME) $(INSTALLDIR)/lib
+	$(RANLIB) $(INSTALLDIR)/lib/lib$(VERSION).a
+$(INSTALLDIR)/lib/lib$(VERSION)-main.a: $(LIB_MAIN_NAME)
+	cp $(LIB_MAIN_NAME) $(INSTALLDIR)/lib
+	$(RANLIB) $(INSTALLDIR)/lib/lib$(VERSION)-main.a
+
+
+$(INSTALLDIR)/bin/psp-allegro-config: $(LIB_NAME)
+	@sed -e "s/@LINK_WITH_STATIC_LIBS@/yes/" misc/allegro-config.in >temp
+	@sed -e "s#@prefix@#$(INSTALLDIR)#" temp > temp2
+	@sed -e "s#@INCLUDE_PREFIX@#$(INSTALLDIR)#" temp2 > temp
+	@sed -e "s#@includedir@#$(INSTALLDIR)/include#" temp > temp2
+	@sed -e "s#@libdir@#$(INSTALLDIR)/lib#" temp2 > temp
+	@sed -e "s#@bindir@#$(INSTALLDIR)/bin#" temp > temp2
+	@sed -e "s/@LIB_TO_LINK@/$(VERSION)/" temp2 > temp
+	@sed -e "s/@LDFLAGS@//" temp > temp2
+	@sed -e "s/@LIBS@/-l$(VERSION)-main $(STATIC_LIBRARIES)/" temp2 >$(INSTALLDIR)/bin/psp-allegro-config
+	@rm -f temp temp2
+	@chmod a+x $(INSTALLDIR)/bin/psp-allegro-config
+	@echo psp-allegro-config script created in $(INSTALLDIR)/bin
+
+BUILD_HEADERS = $(INCDIR)/allegro/platform/aintpsp.h  \
+          $(INCDIR)/allegro/platform/alpspcfg.h \
+          $(INCDIR)/allegro/platform/alplatf.h  \
+          $(INCDIR)/allegro/platform/astdint.h  \
+          $(INCDIR)/allegro/platform/alpsp.h
+
+HEADERS = $(addprefix $(INSTALLDIR)/,$(BUILD_HEADERS))
+
+INSTALL_FILES = $(INSTALLDIR)/$(LIBDIR)/lib$(VERSION).a
+INSTALL_FILES += $(INSTALLDIR)/$(LIBDIR)/lib$(VERSION)-main.a
+
+INSTALL_FILES += $(HEADERS) $(INSTALLDIR)/bin/psp-allegro-config
+
+install: generic-install
+	@echo The $(DESCRIPTION) $(PLATFORM) library has been installed.
+
+UNINSTALL_FILES = $(INSTALLDIR)/$(LIBDIR)/liballeg.a      \
+                  $(INSTALLDIR)/$(LIBDIR)/liballd.a       \
+                  $(INSTALLDIR)/$(LIBDIR)/liballp.a       \
+                  $(INSTALLDIR)/$(LIBDIR)/liballeg-main.a \
+                  $(INSTALLDIR)/$(LIBDIR)/liballd-main.a  \
+                  $(INSTALLDIR)/$(LIBDIR)/liballp-main.a  \
+                  $(HEADERS)                              \
+                  $(INSTALLDIR)/bin/psp-allegro-config
+
+uninstall: generic-uninstall
+
+
+# -------- finally, we get to the fun part... --------
+
+
+# -------- link as a static library --------
+define MAKE_LIB
+$(AR) cru $(LIB_NAME) $(OBJECTS)
+endef
+
+$(LIB_MAIN_NAME): obj/psp/$(VERSION)/pmain.o
+	$(AR) cru $(LIB_MAIN_NAME) obj/psp/$(VERSION)/pmain.o
+
+
+COMPILE_FLAGS = $(subst src/,-DALLEGRO_SRC ,$(findstring src/, $<))$(CFLAGS)
+
+$(OBJ_DIR)/%.o: %.c
+	$(CC) $(COMPILE_FLAGS) -I. -I./include -I$(PSPSDK)/include -o $@ -c $<
+
+
+# -------- generate automatic dependencies --------
+
+DEPEND_PARAMS = -MM -MG -I. -I./include -DSCAN_DEPEND -DALLEGRO_PSP
+
+depend:
+	$(CC) $(DEPEND_PARAMS) src/*.c src/misc/*.c src/c/*.c > _depend.tmp
+	$(CC) $(DEPEND_PARAMS) src/psp/*.c  >> _depend.tmp
+	sed -e "s/^[a-zA-Z0-9_\/]*\///" _depend.tmp > _depend2.tmp
+	sed -e "s/^\([a-zA-Z0-9_]*\.o *:\)/obj\/psp\/alleg\/\1/" _depend2.tmp > obj/psp/alleg/makefile.dep
+	sed -e "s/^\([a-zA-Z0-9_]*\.o *:\)/obj\/psp\/alld\/\1/" _depend2.tmp > obj/psp/alld/makefile.dep
+	sed -e "s/^\([a-zA-Z0-9_]*\.o *:\)/obj\/psp\/allp\/\1/" _depend2.tmp > obj/psp/allp/makefile.dep
+	rm _depend.tmp _depend2.tmp

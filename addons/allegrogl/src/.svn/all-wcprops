@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/alleg/!svn/ver/11480/allegro/branches/4.3.10plus/addons/allegrogl/src
+END
+glvtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/alleg/!svn/ver/9759/allegro/branches/4.3.10plus/addons/allegrogl/src/glvtable.c
+END
+texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/src/texture.c
+END
+videovtb.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/alleg/!svn/ver/9759/allegro/branches/4.3.10plus/addons/allegrogl/src/videovtb.c
+END
+glext.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/10017/allegro/branches/4.3.10plus/addons/allegrogl/src/glext.c
+END
+djgpp.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/src/djgpp.c
+END
+gui.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/9570/allegro/branches/4.3.10plus/addons/allegrogl/src/gui.c
+END
+macosx.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/src/macosx.m
+END
+alleggl.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/alleg/!svn/ver/11068/allegro/branches/4.3.10plus/addons/allegrogl/src/alleggl.c
+END
+x.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/11480/allegro/branches/4.3.10plus/addons/allegrogl/src/x.c
+END
+aglf.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/src/aglf.c
+END
+math.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/src/math.c
+END
+fontconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/alleg/!svn/ver/10185/allegro/branches/4.3.10plus/addons/allegrogl/src/fontconv.c
+END
+scorer.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/src/scorer.c
+END
+win.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/alleg/!svn/ver/10017/allegro/branches/4.3.10plus/addons/allegrogl/src/win.c
+END

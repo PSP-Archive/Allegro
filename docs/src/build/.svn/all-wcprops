@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/11141/allegro/branches/4.3.10plus/docs/src/build
+END
+mingw32._tx
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/9931/allegro/branches/4.3.10plus/docs/src/build/mingw32._tx
+END
+qnx._tx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/docs/src/build/qnx._tx
+END
+beos._tx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/docs/src/build/beos._tx
+END
+msvc._tx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/9931/allegro/branches/4.3.10plus/docs/src/build/msvc._tx
+END
+macosx._tx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/docs/src/build/macosx._tx
+END
+watcom._tx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/docs/src/build/watcom._tx
+END
+bcc32._tx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/docs/src/build/bcc32._tx
+END
+linux._tx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/docs/src/build/linux._tx
+END
+haiku._tx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/11141/allegro/branches/4.3.10plus/docs/src/build/haiku._tx
+END
+dmc._tx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/docs/src/build/dmc._tx
+END
+unix._tx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/9710/allegro/branches/4.3.10plus/docs/src/build/unix._tx
+END
+darwin._tx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/9930/allegro/branches/4.3.10plus/docs/src/build/darwin._tx
+END
+djgpp._tx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/docs/src/build/djgpp._tx
+END

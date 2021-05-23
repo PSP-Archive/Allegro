@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/alleg/!svn/ver/9505/allegro/branches/4.3.10plus/tests
+END
+filetest.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tests/filetest.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/9505/allegro/branches/4.3.10plus/tests/test.c
+END
+gfxinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tests/gfxinfo.c
+END
+playfli.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tests/playfli.c
+END
+afinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8144/allegro/branches/4.3.10plus/tests/afinfo.c
+END
+cpptest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tests/cpptest.cpp
+END
+miditest.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/tests/miditest.c
+END
+akaitest.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tests/akaitest.c
+END
+play.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tests/play.c
+END
+mathtest.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tests/mathtest.c
+END
+vesainfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8144/allegro/branches/4.3.10plus/tests/vesainfo.c
+END
+digitest.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/tests/digitest.c
+END

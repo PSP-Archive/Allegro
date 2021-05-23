@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/alleg/!svn/ver/11360/allegro/branches/4.3.10plus/src/x
+END
+xmouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/src/x/xmouse.c
+END
+xdga2.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/x/xdga2.c
+END
+xvtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/9794/allegro/branches/4.3.10plus/src/x/xvtable.c
+END
+xwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/11360/allegro/branches/4.3.10plus/src/x/xwin.c
+END
+xdga2s.s
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/x/xdga2s.s
+END
+xgfxdrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/x/xgfxdrv.c
+END
+xkeyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/x/xkeyboard.c
+END
+xtimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/x/xtimer.c
+END
+xwins.s
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/x/xwins.s
+END
+icon.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8113/allegro/branches/4.3.10plus/src/x/icon.xpm
+END
+xwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/x/xwin.h
+END
+xsystem.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/9770/allegro/branches/4.3.10plus/src/x/xsystem.c
+END

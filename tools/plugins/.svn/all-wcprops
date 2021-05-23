@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/tools/plugins
+END
+datfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datfont.c
+END
+datworms.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datworms.c
+END
+datimage.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datimage.inc
+END
+datmidi.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datmidi.inc
+END
+datfli.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datfli.c
+END
+datgrab.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/tools/plugins/datgrab.c
+END
+datgrid.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datgrid.inc
+END
+datalpha.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datalpha.inc
+END
+datpal.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datpal.c
+END
+datfname.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datfname.inc
+END
+datitype.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datitype.inc
+END
+datimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datimage.c
+END
+datmidi.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datmidi.c
+END
+datgrid.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/tools/plugins/datgrid.c
+END
+datalpha.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datalpha.c
+END
+plugins.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/plugins.txt
+END
+datfname.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datfname.c
+END
+datsamp.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datsamp.inc
+END
+datitype.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datitype.c
+END
+datfont.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datfont.inc
+END
+datworms.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datworms.inc
+END
+datsamp.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datsamp.c
+END
+datfli.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datfli.inc
+END
+datgrab.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datgrab.inc
+END
+datpal.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/plugins/datpal.inc
+END

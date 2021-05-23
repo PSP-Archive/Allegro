@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/alleg/!svn/ver/11124/allegro/branches/4.3.10plus/src/psp
+END
+pdrivers.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/11124/allegro/branches/4.3.10plus/src/psp/pdrivers.c
+END
+pfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/11124/allegro/branches/4.3.10plus/src/psp/pfile.c
+END
+pjoy.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/11124/allegro/branches/4.3.10plus/src/psp/pjoy.c
+END
+pgfx.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/11124/allegro/branches/4.3.10plus/src/psp/pgfx.c
+END
+pmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/11124/allegro/branches/4.3.10plus/src/psp/pmain.c
+END
+psystem.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/11124/allegro/branches/4.3.10plus/src/psp/psystem.c
+END
+pkey.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/11124/allegro/branches/4.3.10plus/src/psp/pkey.c
+END
+psound.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/11124/allegro/branches/4.3.10plus/src/psp/psound.c
+END
+pdatafile.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/alleg/!svn/ver/11124/allegro/branches/4.3.10plus/src/psp/pdatafile.c
+END

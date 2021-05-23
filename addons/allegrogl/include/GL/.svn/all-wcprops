@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/include/GL
+END
+glut.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/include/GL/glut.h
+END
+amesa.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/include/GL/amesa.h
+END

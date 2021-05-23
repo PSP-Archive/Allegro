@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 176
+allegro.dvi
+allegro.ps*
+makedoc
+makedoc.exe
+*.pdb
+allegro.aux
+allegro.cp
+allegro.fn
+allegro.fns
+allegro.ky
+allegro.log
+allegro.pdf
+allegro.pg
+allegro.toc
+allegro.tp
+allegro.vr
+
+END

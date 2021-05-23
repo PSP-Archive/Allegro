@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tests/mac
+END
+template.make
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tests/mac/template.make
+END
+test.make
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tests/mac/test.make
+END
+exhello.make
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tests/mac/exhello.make
+END

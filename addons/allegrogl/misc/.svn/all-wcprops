@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/alleg/!svn/ver/10168/allegro/branches/4.3.10plus/addons/allegrogl/misc
+END
+depend.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/misc/depend.sh
+END
+mkalias.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/misc/mkalias.sh
+END
+fixver.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/allegrogl/misc/fixver.sh
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/misc/install-sh
+END
+zipup.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/addons/allegrogl/misc/zipup.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/amd64
+END
+asmdefs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/amd64/asmdefs.inc
+END
+acpus.s
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/amd64/acpus.s
+END

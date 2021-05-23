@@ -1,0 +1,401 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/alleg/!svn/ver/11473/allegro/branches/4.3.10plus/src
+END
+joystick.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/joystick.c
+END
+keyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/9551/allegro/branches/4.3.10plus/src/keyboard.c
+END
+flood.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/flood.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/11138/allegro/branches/4.3.10plus/src/config.c
+END
+font.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/alleg/!svn/ver/10155/allegro/branches/4.3.10plus/src/font.c
+END
+fonttxt.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/9929/allegro/branches/4.3.10plus/src/fonttxt.c
+END
+quat.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/quat.c
+END
+poly3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/src/poly3d.c
+END
+lbm.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/lbm.c
+END
+vtable24.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/9794/allegro/branches/4.3.10plus/src/vtable24.c
+END
+text.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/alleg/!svn/ver/11138/allegro/branches/4.3.10plus/src/text.c
+END
+math.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/math.c
+END
+fsel.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/alleg/!svn/ver/11138/allegro/branches/4.3.10plus/src/fsel.c
+END
+blit.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/blit.c
+END
+rotate.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/rotate.c
+END
+readbmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/10987/allegro/branches/4.3.10plus/src/readbmp.c
+END
+inline.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/inline.c
+END
+color.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/color.c
+END
+colblend.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/colblend.c
+END
+glyph.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/glyph.c
+END
+vtable16.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/9794/allegro/branches/4.3.10plus/src/vtable16.c
+END
+mixer.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/mixer.c
+END
+gui.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/alleg/!svn/ver/11138/allegro/branches/4.3.10plus/src/gui.c
+END
+clip3df.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/clip3df.c
+END
+scene3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/scene3d.c
+END
+fontgrx.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/fontgrx.c
+END
+drvlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/drvlist.c
+END
+polygon.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/polygon.c
+END
+pcx.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/pcx.c
+END
+readsmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/10987/allegro/branches/4.3.10plus/src/readsmp.c
+END
+digmid.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/src/digmid.c
+END
+fontdat.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/fontdat.c
+END
+quantize.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/quantize.c
+END
+graphics.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/9964/allegro/branches/4.3.10plus/src/graphics.c
+END
+readfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/10987/allegro/branches/4.3.10plus/src/readfont.c
+END
+fontbmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/fontbmp.c
+END
+guiproc.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/src/guiproc.c
+END
+datafile.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/11138/allegro/branches/4.3.10plus/src/datafile.c
+END
+fli.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/alleg/!svn/ver/11138/allegro/branches/4.3.10plus/src/fli.c
+END
+math3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/math3d.c
+END
+rle.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/rle.c
+END
+midi.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/alleg/!svn/ver/11119/allegro/branches/4.3.10plus/src/midi.c
+END
+fontbios.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/fontbios.c
+END
+gfx.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/alleg/!svn/ver/11473/allegro/branches/4.3.10plus/src/gfx.c
+END
+allegro.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/11278/allegro/branches/4.3.10plus/src/allegro.c
+END
+unicode.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/11138/allegro/branches/4.3.10plus/src/unicode.c
+END
+modesel.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/10294/allegro/branches/4.3.10plus/src/modesel.c
+END
+sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/11293/allegro/branches/4.3.10plus/src/sound.c
+END
+stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/stream.c
+END
+vtable8.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/9794/allegro/branches/4.3.10plus/src/vtable8.c
+END
+dispsw.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dispsw.c
+END
+libc.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/libc.c
+END
+tga.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/tga.c
+END
+vtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/vtable.c
+END
+gsprite.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/gsprite.c
+END
+bmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/alleg/!svn/ver/10114/allegro/branches/4.3.10plus/src/bmp.c
+END
+clip3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/clip3d.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/alleg/!svn/ver/11138/allegro/branches/4.3.10plus/src/file.c
+END
+dither.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dither.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/timer.c
+END
+dataregi.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/dataregi.c
+END
+vtable32.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/9794/allegro/branches/4.3.10plus/src/vtable32.c
+END
+vtable15.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/9794/allegro/branches/4.3.10plus/src/vtable15.c
+END
+mouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/mouse.c
+END
+spline.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/spline.c
+END
+lzss.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/lzss.c
+END

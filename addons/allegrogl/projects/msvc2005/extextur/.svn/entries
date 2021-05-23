@@ -1,0 +1,41 @@
+8
+
+dir
+11480
+https://alleg.svn.sourceforge.net/svnroot/alleg/allegro/branches/4.3.10plus/addons/allegrogl/projects/msvc2005/extextur
+https://alleg.svn.sourceforge.net/svnroot/alleg
+
+
+
+2008-01-30T10:56:50.015752Z
+9959
+tjaden
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+198e8dbc-0e07-0410-9fd0-dca9db973e3e
+
+extextur.vcproj
+file
+
+
+
+
+2009-01-20T10:54:32.000000Z
+8d7485557fa042cd00f0cf3545303318
+2008-01-30T10:56:50.015752Z
+9959
+tjaden
+has-props
+

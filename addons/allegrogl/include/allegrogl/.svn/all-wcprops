@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/11068/allegro/branches/4.3.10plus/addons/allegrogl/include/allegrogl
+END
+gl_ext.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/include/allegrogl/gl_ext.h
+END
+gl_header_detect.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/alleg/!svn/ver/9475/allegro/branches/4.3.10plus/addons/allegrogl/include/allegrogl/gl_header_detect.h
+END

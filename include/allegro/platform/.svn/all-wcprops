@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/alleg/!svn/ver/11124/allegro/branches/4.3.10plus/include/allegro/platform
+END
+almngw32.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/almngw32.h
+END
+alpspcfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/alleg/!svn/ver/11124/allegro/branches/4.3.10plus/include/allegro/platform/alpspcfg.h
+END
+alunix.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/alunix.h
+END
+alucfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/alucfg.h
+END
+aintdos.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/aintdos.h
+END
+aldos.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/aldos.h
+END
+albeos.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/alleg/!svn/ver/11119/allegro/branches/4.3.10plus/include/allegro/platform/albeos.h
+END
+alwatcom.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/alwatcom.h
+END
+aintwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/10226/allegro/branches/4.3.10plus/include/allegro/platform/aintwin.h
+END
+al386gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/al386gcc.h
+END
+alwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/alwin.h
+END
+aintpsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/11124/allegro/branches/4.3.10plus/include/allegro/platform/aintpsp.h
+END
+alpsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/alleg/!svn/ver/11124/allegro/branches/4.3.10plus/include/allegro/platform/alpsp.h
+END
+macdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/macdef.h
+END
+almsvc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/almsvc.h
+END
+aintosx.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/aintosx.h
+END
+alosx.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/alosx.h
+END
+al386vc.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/al386vc.h
+END
+alunixac.hin
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/include/allegro/platform/alunixac.hin
+END
+almaccfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/almaccfg.h
+END
+aintunix.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/9770/allegro/branches/4.3.10plus/include/allegro/platform/aintunix.h
+END
+alqnxcfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/alqnxcfg.h
+END
+aintbeos.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/aintbeos.h
+END
+alosxcfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/alosxcfg.h
+END
+astdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/astdint.h
+END
+al386wat.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/al386wat.h
+END
+albcc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/albcc32.h
+END
+aintmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/aintmac.h
+END
+almac.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/almac.h
+END
+aintlnx.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/aintlnx.h
+END
+aldmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/alleg/!svn/ver/9959/allegro/branches/4.3.10plus/include/allegro/platform/aldmc.h
+END
+aldjgpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/aldjgpp.h
+END
+aintqnx.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/aintqnx.h
+END
+alqnx.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/include/allegro/platform/alqnx.h
+END
+albecfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/alleg/!svn/ver/11119/allegro/branches/4.3.10plus/include/allegro/platform/albecfg.h
+END

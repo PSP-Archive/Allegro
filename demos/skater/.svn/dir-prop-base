@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 39
+bin
+demo
+demo.cfg
+lib
+makefile.dep
+obj
+
+END

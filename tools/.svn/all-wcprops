@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/alleg/!svn/ver/11119/allegro/branches/4.3.10plus/tools
+END
+datedit.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/11119/allegro/branches/4.3.10plus/tools/datedit.c
+END
+pack.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/pack.c
+END
+pat2dat.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8121/allegro/branches/4.3.10plus/tools/pat2dat.c
+END
+datedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/datedit.h
+END
+grabber.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/11119/allegro/branches/4.3.10plus/tools/grabber.c
+END
+dat.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/dat.c
+END
+rgbmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/rgbmap.c
+END
+exedat.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/exedat.c
+END
+textconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/textconv.c
+END
+colormap.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/colormap.c
+END
+dat2s.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/tools/dat2s.c
+END
+dat2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/11119/allegro/branches/4.3.10plus/tools/dat2c.c
+END

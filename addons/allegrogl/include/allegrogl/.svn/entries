@@ -1,0 +1,57 @@
+8
+
+dir
+11480
+https://alleg.svn.sourceforge.net/svnroot/alleg/allegro/branches/4.3.10plus/addons/allegrogl/include/allegrogl
+https://alleg.svn.sourceforge.net/svnroot/alleg
+
+
+
+2008-10-11T22:33:43.827912Z
+11068
+mmimica
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+198e8dbc-0e07-0410-9fd0-dca9db973e3e
+
+GLext
+dir
+
+gl_ext.h
+file
+
+
+
+
+2009-01-20T10:54:32.000000Z
+9fd896dd22701490a5b63aba274c3693
+2007-04-28T00:05:58.456255Z
+9405
+mmimica
+has-props
+
+gl_header_detect.h
+file
+
+
+
+
+2009-01-20T10:54:32.000000Z
+b368e14199315781d19893a4bb59c0c8
+2003-12-11T01:48:42.000000Z
+8994
+joe_programmer
+has-props
+

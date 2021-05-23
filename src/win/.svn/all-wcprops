@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/alleg/!svn/ver/11138/allegro/branches/4.3.10plus/src/win
+END
+wddovl.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wddovl.c
+END
+wjoyhelp.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wjoyhelp.c
+END
+wddfull.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wddfull.c
+END
+gdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/gdi.c
+END
+wjoydrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wjoydrv.c
+END
+wtimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wtimer.c
+END
+wmidi.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/10226/allegro/branches/4.3.10plus/src/win/wmidi.c
+END
+asmlock.s
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/asmlock.s
+END
+dllver.rc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/9905/allegro/branches/4.3.10plus/src/win/dllver.rc
+END
+wsystem.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/9770/allegro/branches/4.3.10plus/src/win/wsystem.c
+END
+wddbmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wddbmp.c
+END
+wmouse.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/10017/allegro/branches/4.3.10plus/src/win/wmouse.c
+END
+wddmode.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wddmode.c
+END
+wkeybd.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/10017/allegro/branches/4.3.10plus/src/win/wkeybd.c
+END
+wddlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wddlock.c
+END
+wddraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/10017/allegro/branches/4.3.10plus/src/win/wddraw.c
+END
+wgdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wgdi.c
+END
+wddwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wddwin.c
+END
+wddraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/10017/allegro/branches/4.3.10plus/src/win/wddraw.h
+END
+wdsndmix.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/alleg/!svn/ver/10226/allegro/branches/4.3.10plus/src/win/wdsndmix.c
+END
+wthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wthread.c
+END
+wdispsw.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wdispsw.c
+END
+wfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/9770/allegro/branches/4.3.10plus/src/win/wfile.c
+END
+wddaccel.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wddaccel.c
+END
+wdsinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wdsinput.c
+END
+wdxver.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wdxver.c
+END
+wwnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/alleg/!svn/ver/11101/allegro/branches/4.3.10plus/src/win/wwnd.c
+END
+wsndwo.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/10017/allegro/branches/4.3.10plus/src/win/wsndwo.c
+END
+wdsound.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/alleg/!svn/ver/10226/allegro/branches/4.3.10plus/src/win/wdsound.c
+END
+wjoyw32.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wjoyw32.c
+END
+wjoydx.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/11138/allegro/branches/4.3.10plus/src/win/wjoydx.c
+END
+winput.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/winput.c
+END
+wsnddrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wsnddrv.c
+END
+wgfxdrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wgfxdrv.c
+END
+wddbmpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/alleg/!svn/ver/8101/allegro/branches/4.3.10plus/src/win/wddbmpl.c
+END
